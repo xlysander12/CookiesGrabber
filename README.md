@@ -6,7 +6,7 @@ Small python tool designed to grab all the cookies from browsers
 - Windows OS
 
 # How to use
-You can use the script with no extra arguments by using `python main.py`. This will create a file `cookies.json` will all cokkies from Google Chrome.
+You can use the script with no extra arguments by using `python main.py`. This will create a file `cookies.json` will all cokkies from Google Chrome.\n
 If there is a need to change any setting run `python main.py -h` to see available options
 
 # Compatibility
